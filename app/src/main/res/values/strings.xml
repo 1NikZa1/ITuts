@@ -4,4 +4,6 @@
     <string name="menu_item_notification">Материалы</string>
     <string name="view_navigation_open">open</string>
     <string name="view_navigation_close">close</string>
+    <string name="tab_item_history">История</string>
+    <string name="tab_item_materials">Материалы</string>
 </resources>
